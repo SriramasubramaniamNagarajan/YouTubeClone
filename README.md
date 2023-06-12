@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This project can be viewed in netlify, Kindly follow the link - https://dapper-lollipop-9e8cf8.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
